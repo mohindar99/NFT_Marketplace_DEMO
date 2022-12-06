@@ -1,0 +1,7 @@
+functions in the smartcontract NFTMarketpalce.sol
+
+createToken() - top level function when creating a token for the first time
+createListedToken() - helps create the object of type ListedToken for the NFT and update the idToListedTokenmapping
+getAllNFTs() - get all the NFTs currently listed for sale on the marketplace
+getMyNFTs() - get all the NFTs from the current user on the marketplace
+executeSale() - the function that executes the sale on the marketplace
