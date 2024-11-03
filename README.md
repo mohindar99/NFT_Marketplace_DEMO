@@ -12,7 +12,7 @@ In this project we have used the below mentioned softwares and frameworks :
 
 ## Steps to run the marketplace locally, 
 ```bash
-git clone https://github.com/OMGWINNING/NFT-Marketplace-Tutorial
+https://github.com/mohindar99/NFT_Marketplace_DEMO.git
 cd NFT-Marketplace-Tutorial
 npm install
 npm start
